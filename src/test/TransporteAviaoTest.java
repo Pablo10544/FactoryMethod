@@ -9,13 +9,13 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class TransporteAviaoTest {
 
     @Test
-    void criarCarro(){
+    void pararAviao(){
         ITransporte transporte= TransporteFactory.obterTransporte("Aviao");
         assertEquals("Avião parou no aeroporto.", transporte.parar());
     }
 
     @Test
-    void obterCarro(){
+    void acelerarAviao(){
         ITransporte transporte= TransporteFactory.obterTransporte("Aviao");
         assertEquals("Avião atingiu 300 Km/h.", transporte.acelerar());
     }
