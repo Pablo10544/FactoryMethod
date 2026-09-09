@@ -1,1 +1,1 @@
-<img width="628" height="382" alt="hP912W8n34NtFKMM8q8F828ZWg3WIYyGnoZ5iHdIA8XwTokY7KVTjSlaz_7xVykWA7eyrCPv9TbYHJ1R2VhGi2Z1nK0y_JYkIL2A7WnWgUByxhbei3Ez6LFL608ao0H5E0jfV7AOXxJWJ8-RauQzouAQOgKivnUBrqgIjeMwXj_t8wdTqmFNhcrujRRRm6z12lQF8ELbpBTNQqSVFahoc_YRxW00" src="https://github.com/user-attachments/assets/34086254-552a-4e05-99ce-24ec33a8419e" />
+<img width="628" height="382" alt="imagem_final_uml" src="https://github.com/user-attachments/assets/2a4f378f-f6f5-4884-ace2-66bfb86d7141" />
